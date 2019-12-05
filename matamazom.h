@@ -174,7 +174,7 @@ MatamazomResult mtmNewProduct(Matamazom matamazom, const unsigned int id, const 
  *    is returned if all the parameters are valid.
  */
 MatamazomResult mtmChangeProductAmount(Matamazom matamazom, const unsigned int id, const double amount);
-//s
+//sd
 /**
  * mtmClearProduct: clear a product from a Matamazom warehouse.
  *

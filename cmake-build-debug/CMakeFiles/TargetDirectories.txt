@@ -1,0 +1,3 @@
+/Users/evyatar/Civil Engineering/Semester V/Matam/hw/hw1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/evyatar/Civil Engineering/Semester V/Matam/hw/hw1/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/evyatar/Civil Engineering/Semester V/Matam/hw/hw1/cmake-build-debug/CMakeFiles/hw1.dir
